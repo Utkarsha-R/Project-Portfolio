@@ -4,9 +4,15 @@
 
 #### Overview
 
-- **Project Overview**: This analysis is based on a coffee vending machine dataset found on Kaggle. The intention of this analysis is to determine sales trends, customer preferences, and product sales across months.
-- **Dataset Description**: The dataset spans from March 1st to August 17th, covering 169 days of transactions.
-- **Data Collection**: Data was collected from a coffee vending machine, capturing details such as product type, sales value, and payment method.
+- **Project Overview**: This analysis is based on a coffee vending machine dataset found on Kaggle. The intention of this analysis is to determine sales trends, customer preferences, and product sales across months.The dataset spans from March 1st to August 17th, covering 169 days of transactions. [Download](https://github.com/Utkarsha-R/Project-Portfolio/blob/main/index.csv) the dataset. Data was collected from a coffee vending machine, capturing details such as product type, sales value, and payment method.
+
+#### Analysis Process
+
+- **Data Cleaning**: Identified and handled missing values in the dataset.Ensured all data was in the correct format for analysis.
+- **Data Transformation**: Normalized data to ensure consistency across different variables.
+- **Exploratory Data Analysis (EDA)**: Calculated agreggate values for key variables. Created visualizations such as bar charts, line graphs, and pie charts to identify trends and patterns.
+- **Analysis**:Analyzed sales trends over time to identify peak periods and seasonal variations.Segmented customers based on purchasing behavior to identify key customer groups.Evaluated the performance of different products to identify top and least-selling items.
+- **Insights and Recommendations**:Summarized key insights from the analysis.Provided actionable recommendations based on the insights.
 
 #### Key Takeaways
 
@@ -22,23 +28,14 @@
 
 #### Recommendations
 
-- **Promotional Strategies**:
-  - **Seasonal Promotions**:  Given the potential for increased sales of Hot Chocolate during the holiday season, running special promotions or discounts on Hot Chocolate around Christmas and New Year will help regain customer interest in the product. This could include holiday-themed marketing campaigns or bundled offers with other popular products.
-  - **Loyalty Programs**: Implementing a loyalty program to reward frequent customers, especially those who prefer paying via card. This could encourage repeat purchases and increase overall sales.
+- **Seasonal Promotions**:  Given the potential for increased sales of Hot Chocolate during the holiday season, running special promotions or discounts on Hot Chocolate around Christmas and New Year will help regain customer interest in the product. This could include holiday-themed marketing campaigns or bundled offers with other popular products.
+- **Highlight Top Sellers**: Focus marketing efforts on promoting Latte and Americano with milk, as these are the top-selling products. Use targeted advertisements and in-store promotions to highlight these popular choices.
+- **Menu Optimization**: Consider optimizing the menu to feature the top-selling products more prominently. This could include placing them at the top of the menu or creating special sections for customer favorites.
+- **Promote Cashless Transactions**: Encourage cashless transactions by offering small discounts or incentives for customers who pay via card. This can streamline the payment process and reduce handling of cash.
+- **Personalized Offers**: Use the data on customer preferences to create personalized offers and promotions. For example, customers who frequently purchase Americano could receive special discounts or loyalty points for their favorite product.
+- **Feedback Mechanism**: Implement a feedback mechanism to gather customer opinions on products and services. This can help identify areas for improvement and enhance customer satisfaction.
 
-- **Product Focus**:
-  - **Highlight Top Sellers**: Focus marketing efforts on promoting Latte and Americano with milk, as these are the top-selling products. Use targeted advertisements and in-store promotions to highlight these popular choices.
-  - **Menu Optimization**: Consider optimizing the menu to feature the top-selling products more prominently. This could include placing them at the top of the menu or creating special sections for customer favorites.
-
-- **Payment Options**:
-  - **Enhance Card Payment Experience**: Since most customers prefer paying via card, ensure that card payment options are readily available and efficient. This could involve upgrading payment terminals or offering contactless payment options to enhance the customer experience.
-  - **Promote Cashless Transactions**: Encourage cashless transactions by offering small discounts or incentives for customers who pay via card. This can streamline the payment process and reduce handling of cash.
-
-- **Customer Engagement**:
-  - **Personalized Offers**: Use the data on customer preferences to create personalized offers and promotions. For example, customers who frequently purchase Americano could receive special discounts or loyalty points for their favorite product.
-  - **Feedback Mechanism**: Implement a feedback mechanism to gather customer opinions on products and services. This can help identify areas for improvement and enhance customer satisfaction.
-
-For a complete Execuitive Summary [click here](https://github.com/Utkarsha-R/Project-Portfolio/blob/main/Executive%20Summery-Coffee%20Vending%20Machine%20EDA.pdf).
+For a complete Executive Summary [click here](https://github.com/Utkarsha-R/Project-Portfolio/blob/main/Executive%20Summery-Coffee%20Vending%20Machine%20EDA.pdf).
 
 You can download the Power BI dashboard directly from 
 [here](https://github.com/Utkarsha-R/Project-Portfolio/raw/main/coffee_EDA.pbix).

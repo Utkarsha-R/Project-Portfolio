@@ -14,6 +14,21 @@
 - **Analysis**:Analyzed sales trends over time to identify peak periods and seasonal variations.Segmented customers based on purchasing behavior to identify key customer groups.Evaluated the performance of different products to identify top and least-selling items.
 - **Insights and Recommendations**:Summarized key insights from the analysis.Provided actionable recommendations based on the insights.
 
+#### Visuals
+
+##### The overall dashboard report 
+
+![Screenshot 2024-11-29 131138](https://github.com/user-attachments/assets/a5b16097-5cbc-436b-9b76-b1819fa689a6)
+
+##### Total Sales By Hour
+
+![Screenshot 2024-11-29 165056](https://github.com/user-attachments/assets/61a17756-64b6-4ea3-b646-3f087c4b3cf3)
+
+##### Total Sales By days of week 
+
+![Screenshot 2024-11-29 165135](https://github.com/user-attachments/assets/f193dd71-89fa-4da4-a82b-bc25cd4ffee9)
+
+
 #### Key Takeaways
 
 - **Top Products**: The top product by aggregate value of sales is Latte, with over $10.30k in total sales and an average value of $36.48. Latte is closely followed by Americano with milk, which has a total sales value of $10.03k and an average of $31.42.

@@ -57,3 +57,40 @@ You can download the Power BI dashboard directly from
 
 
 **Note: To open this file use PowerBI dashboard.**
+
+## Project 2: Customer Purchase Segmentation 
+
+#### Overview
+
+- **Project Overview**: This analysis is based on a Customer Purchase Dataset found on Kaggle. The intention of this analysis is to understanding customer personalities allows businesses to better comprehend their needs, behaviors, and concerns, making it easier to tailor products accordingly. This approach ensures products align more closely with the specific requirements of different customer segments.s. [Download](https://www.kaggle.com/datasets/mjlyma/customer-purchase-dataset/data) the dataset. The data include coulmns like age and income of customers, their spending score, their membership, their purchase frequency and their last purchase amount.
+- 
+#### Analysis Process
+
+- **Data Cleaning**: Identified and handled missing values in the dataset.Ensured all data was in the correct format for analysis.
+- **Data Transformation**: Normalized data to ensure consistency across different variables.
+- **Exploratory Data Analysis (EDA)**: Calculated agreggate values for key variables. Created visualizations such as bar charts, line graphs, and pie charts to identify trends and patterns.
+- **Analysis**:Analyzed customer behaviour to identify patterns and variations.Segmented customers based on purchasing behavior to identify key customer groups.Evaluated the performance of different age and income groups to identify valuable customers.
+- **Insights and Recommendations**:Summarized key insights from the analysis.Provided actionable recommendations based on the insights.
+
+#### Visuals
+
+##### Distrbution of age amongst Customer
+![csvisual1](https://github.com/user-attachments/assets/7344407a-4897-4878-9b9b-412dd52e7c35)
+
+##### Distribution of Income amongst Customer
+![csvisual2](https://github.com/user-attachments/assets/69f5e968-84a8-4f19-bc93-d976671b517b)
+
+##### Distribution of Spending Score among Age and Incomer
+![csvisual3](https://github.com/user-attachments/assets/dc61619c-b928-4843-82dc-47521895d85b)
+
+##### Average Membership Years among Age and Income
+![csvisual4](https://github.com/user-attachments/assets/21a0b053-e053-40e6-9e1a-4676d9f84760)
+
+#### Key Takeaways
+-
+
+
+#### Conclusion
+
+
+#### Recommendations
